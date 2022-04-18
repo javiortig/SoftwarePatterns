@@ -1,0 +1,2 @@
+module factory_method {
+}
